@@ -10,5 +10,5 @@ A career counseling chatbot built with Python, using a modular production system
 ## Setup:
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <[repository_url](https://github.com/MJAdil/Career-Counselor-Chatbot-Rule-Based.git)>
    cd career_chatbot
